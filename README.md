@@ -1,4 +1,5 @@
-<<<<<<< HEADER
-# My Project
-READ ME!
+# Header
+### My Project
+**READ ME!**
+*italics*
 
